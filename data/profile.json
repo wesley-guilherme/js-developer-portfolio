@@ -37,13 +37,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
+      "url": "https://github.com/wesley-guilherme/projeto6_css",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Responsividade Do Site Discord",
+      "url": "https://github.com/wesley-guilherme/projeto7_css",
       "github": true
     }
   ],
