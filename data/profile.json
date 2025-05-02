@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "./assets/imgs/html.png"
+        "logo": "./data/imgs/html.png"
       },
       {
         "name": "Css",
