@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "./data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/wesley-guilherme/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
         "name": "Css",
