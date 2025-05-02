@@ -13,15 +13,15 @@
       },
       {
         "name": "Css",
-        "logo": "./assets/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/wesley-guilherme/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
         "name": "Javascript",
-        "logo": "./assets/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/wesley-guilherme/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "./assets/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/wesley-guilherme/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
       }
     ],
     "softSkills": [
